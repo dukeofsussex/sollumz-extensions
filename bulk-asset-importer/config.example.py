@@ -80,7 +80,7 @@ IMPORT_DIRECTORY = ''
 # Edit > Preferences > Add-ons > Search for Sollumz > File: <path-to-addons-folder>/<SOLLUMZ_PACKAGE>/__init__.py
 SOLLUMZ_PACKAGE='Sollumz'
 
-# All assets not covered by the
+# All assets not grouped via ASSET_GROUPS
 UNGROUPED = "_assets"
 
 # Subdirectory of ASSET_LIBRARY_DIRECTORY for the majority of vehicle props

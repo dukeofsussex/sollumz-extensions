@@ -1,23 +1,14 @@
-# Sollumz Bulk Asset Importer
+# Sollumz Extensions
 
-[![GitHub license](https://img.shields.io/github/license/dukeofsussex/gta-v-map)](https://github.com/dukeofsussex/sollumz-bulk-asset-importer/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/dukeofsussex/sollumz-extensions)](https://github.com/dukeofsussex/sollumz-extensions/blob/master/LICENSE)
 
-Script to help create a Blender asset library from GTA V assets.
+Tools for working with Blender and Sollumz in GTA V.
 
 ## Prerequisites
 
 * [Blender](https://www.blender.org/)
 * [CodeWalker](https://github.com/dexyfex/CodeWalker)
-* [Sollumz](https://github.com/Skylumz/Sollumz)
-
-## Usage
-
-1. Download this repo (as a ZIP using the green button above labelled "Code")
-2. (Extract and) ```cd``` into the repository's folder
-3. Prepare your [asset library](https://docs.blender.org/manual/en/latest/files/asset_libraries/introduction.html)
-4. Export the assets you want to import as XML files via [CodeWalker](https://github.com/dexyfex/CodeWalker)
-5. Configure the script by copying `config.example.py` to `config.py` and setting the provided parameters
-6. Run the script using `<path to blender>\blender.exe -b -P import.py`
+* [Sollumz](https://github.com/Sollumz/Sollumz)
 
 ## Contributing
 
